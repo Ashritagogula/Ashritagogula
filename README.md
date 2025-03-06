@@ -20,6 +20,8 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ashritagogula&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🐍 Contribution Snake
+![Snake Animation](https://github.com/Ashritagogula/Ashritagogula/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
