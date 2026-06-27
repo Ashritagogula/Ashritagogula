@@ -129,12 +129,6 @@ https://ashritagogula.vercel.app
 
 ---
 
-# 📈 GitHub Activity Graph
-
-[![Ashrita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashritagogula&theme=tokyo-night)](https://github.com/Ashritagogula)
-
----
-
 # 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Ashritagogula&theme=radical&margin-w=15&margin-h=15)
