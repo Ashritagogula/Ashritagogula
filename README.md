@@ -94,7 +94,7 @@ evaluation, barcode-based booklet management, faculty verification and result pr
 An interactive coding platform designed to improve student engagement and
 learning through gamification, Super Coins rewards and responsive UI/UX.
 
-**Tech:** HTML · CSS · JavaScript
+**Tech:** HTML · CSS · JavaScript · React.js · JavaScript · Node.js · MongoDB
 
 ---
 
